@@ -1,0 +1,27 @@
+###opencv2.framework###
+opencv2.framework
+
+### Unity ###
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/Logs/
+/[Bb]uild/
+/[Bb]uilds/
+/*.csproj
+/*.sln
+
+# 모든 폴더에서 불포함 파일들
+desktop.ini
+.DS_Store
+.vs/
+bin/
+obj/
+*.pdb
+.vscode
+.idea/
+.settings
+.project
+.classpath
+*.mdb
+*.symbols.zip
