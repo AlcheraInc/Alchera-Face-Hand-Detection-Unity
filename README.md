@@ -3,7 +3,8 @@
 ## What does this project do?
 
 We are distributing the Alchera Unity Plugin for the purpose of seeing how our Plugin meets the market's demand. Alchera Unity Plugin is a Unity3D Project that detects faces and hands in 2D/3D. <br>
-You can test this project on Android and iOS, or, just download Alchera app <a href="https://play.google.com/store/apps/details?id=com.alcherainc.alunityplugin" target="_blank"><img width="25" src="https://i.imgur.com/e8wjusG.png"/></a>  from google playstore for testing. If you want to use Alchera Unity Plugin, you need to hand in google form.
+You can test this project on Android and iOS, or, just download Alchera app <a href="https://play.google.com/store/apps/details?id=com.alcherainc.alunityplugin" target="_blank"><img width="25" src="https://i.imgur.com/e8wjusG.png"/></a>  from google playstore for testing. 
+<br>If you want to use Alchera Unity Plugin, you need to hand in google form.
 
 <!-- ## **Google Form URL** [ENG](https://forms.gle/SGWiMwFA7GiT77JP9) [KOR](https://forms.gle/CdvoP8oT8ZyowTjJ6) -->
 
