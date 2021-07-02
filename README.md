@@ -4,18 +4,18 @@
 
 We are distributing the Alchera Unity Plugin for the purpose of seeing how our Plugin meets the market's demand. Alchera Unity Plugin is a Unity3D Project that detects faces and hands in 2D/3D. <br>
 You can test this project on Android and iOS, or, just download Alchera app <a href="https://play.google.com/store/apps/details?id=com.alcherainc.alunityplugin" target="_blank"><img width="25" src="https://i.imgur.com/e8wjusG.png"/></a>  from google playstore for testing. 
-<br>If you want to use Alchera Unity Plugin, you need to hand in google form.
 
-<!-- ## **Google Form URL** [ENG](https://forms.gle/SGWiMwFA7GiT77JP9) [KOR](https://forms.gle/CdvoP8oT8ZyowTjJ6) -->
+First of all, thank you for your interest in Alchera Unity Plugin. <br>
+Alchera Unity Plugin was supported until 2021.06.30 and was successfully distributed via Google form. Further distribution is being prepared and we will get back to you at our earliest. <br>
+<br>
+Those applicants who applied by the end of June will receive a separate email regarding an additional use of license with a request for a survey completion. For new applicants, additional license usage permission can be applied via the README link that will be updated by the mid of July. <br>
+Below is the brief schedule of our Alchera Unity Plugin distribution. 
+- License will be distributed on mid of July 2021 to applicants. 
+- License will be redistributed after January 2022 with an additional survey. The SDK model license will extend until July 2022. 
 
-## GoogleForm LINK
-### **[ENG] [https://forms.gle/SGWiMwFA7GiT77JP9](https://forms.gle/SGWiMwFA7GiT77JP9)**<br> 
-### **[KOR] [https://forms.gle/CdvoP8oT8ZyowTjJ6](https://forms.gle/CdvoP8oT8ZyowTjJ6)**
 
-Fill out the Google form. We will send you the Alchera SDK and model to the email you entered.
-
-This SDK is available until **2021-06-30.** <br>
-If you have any questions about Alchera Unity SDK, you can see the document.
+We would (sincerely) ask for your interest in our upcoming SDK distribution. <br>
+Thank you <br>
 
 ---
 ### What's in it?
