@@ -8,10 +8,10 @@ You can test this project on Android and iOS, or, just download Alchera app <a h
 First of all, thank you for your interest in Alchera Unity Plugin. <br>
 Alchera Unity Plugin was supported until 2021.06.30 and was successfully distributed via Google form. Further distribution is being prepared and we will get back to you at our earliest. <br>
 <br>
-Those applicants who applied by the end of June will receive a separate email regarding an additional use of license with a request for a survey completion. For new applicants, additional license usage permission can be applied via the README link that will be updated by the mid of July. <br>
+Those applicants who applied by the end of June will receive a separate email regarding an additional use of license with a request for a survey completion. For new applicants, additional license usage permission can be applied via the README link that will be updated by August. <br>
 Below is the brief schedule of our Alchera Unity Plugin distribution. 
-- License will be distributed on mid of July 2021 to applicants. 
-- License will be redistributed after January 2022 with an additional survey. The SDK model license will extend until July 2022. 
+- License will be distributed on mid of August 2021 to applicants. 
+- License will be redistributed after January 2022 with an additional survey. The SDK model license will extend until August 2022. 
 
 
 We would (sincerely) ask for your interest in our upcoming SDK distribution. <br>
